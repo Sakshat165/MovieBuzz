@@ -1,6 +1,7 @@
 {
   "name": "moviebuzz",
   "version": "0.1.0",
+  "homepage": "https://Sakshat165.github.io/MovieBuzz",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
